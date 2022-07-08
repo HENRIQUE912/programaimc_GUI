@@ -21,11 +21,11 @@ namespace IMC_GRAFICO
 
         private void calcular_Click(object sender, EventArgs e)
         {
-          
+                
             double peso = double.Parse(peso1.Text);
             double alt = double.Parse(altura.Text);
             int i = 0;
-           
+           int h = 333;//apague essa variavel//
             
 
 

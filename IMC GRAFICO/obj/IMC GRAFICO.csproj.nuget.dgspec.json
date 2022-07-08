@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Henrique\\Desktop\\IMC GRAFICO\\IMC GRAFICO.csproj": {}
+    "C:\\Users\\Henrique\\Documents\\GitHub\\programaimc_GUI\\IMC GRAFICO\\IMC GRAFICO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Henrique\\Desktop\\IMC GRAFICO\\IMC GRAFICO.csproj": {
+    "C:\\Users\\Henrique\\Documents\\GitHub\\programaimc_GUI\\IMC GRAFICO\\IMC GRAFICO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Henrique\\Desktop\\IMC GRAFICO\\IMC GRAFICO.csproj",
+        "projectUniqueName": "C:\\Users\\Henrique\\Documents\\GitHub\\programaimc_GUI\\IMC GRAFICO\\IMC GRAFICO.csproj",
         "projectName": "IMC GRAFICO",
-        "projectPath": "C:\\Users\\Henrique\\Desktop\\IMC GRAFICO\\IMC GRAFICO.csproj",
+        "projectPath": "C:\\Users\\Henrique\\Documents\\GitHub\\programaimc_GUI\\IMC GRAFICO\\IMC GRAFICO.csproj",
         "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Henrique\\Desktop\\IMC GRAFICO\\obj\\",
+        "outputPath": "C:\\Users\\Henrique\\Documents\\GitHub\\programaimc_GUI\\IMC GRAFICO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
