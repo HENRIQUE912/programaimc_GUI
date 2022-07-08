@@ -1,0 +1,50 @@
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.exe
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.deps.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.dev.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.dll
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.AssemblyReference.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC_GRAFICO.Form1.resources
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.GenerateResource.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfoInputs.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfo.cs
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.CoreCompileInputs.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.dll
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.exe
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.deps.json
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.json
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.dev.json
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.dll
+C:\Users\Henrique\Desktop\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC_GRAFICO.Form1.resources
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.GenerateResource.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.dll
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC_GRAFICO.Properties.Resources.resources
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.exe
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.deps.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.runtimeconfig.dev.json
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.dll
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\bin\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.AssemblyReference.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC_GRAFICO.Form1.resources
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC_GRAFICO.Properties.Resources.resources
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.GenerateResource.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfoInputs.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.AssemblyInfo.cs
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.csproj.CoreCompileInputs.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.dll
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.pdb
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.genruntimeconfig.cache
+D:\SENAI\C#\GUI (INTERFACE GRAFICA)\IMC AMBIENTE GRAFICO\IMC GRAFICO\obj\Debug\netcoreapp3.1\IMC GRAFICO.GeneratedMSBuildEditorConfig.editorconfig
